@@ -1,0 +1,45 @@
+{
+  "name": "invalid-bot",
+  "version": "3.6.2",
+  "description": "Инвалид бот?",
+  "main": "index.js",
+  "engines": {
+    "node": "10.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkVessel/InvalidBot-discord.js.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "Invalid",
+    "Bot",
+    "Discord",
+    "discord.js",
+    "JS",
+    "JSON",
+    "MongoDB",
+    "discore.js"
+  ],
+  "author": "DarkVessel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkVessel/InvalidBot-discord.js/issues"
+  },
+  "homepage": "https://github.com/DarkVessel/InvalidBot-discord.js#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discore.js": "^0.9.6",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.4",
+    "node-fetch": "^2.6.0",
+    "strftime": "^0.10.0"
+  }
+}

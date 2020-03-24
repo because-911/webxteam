@@ -1,0 +1,27 @@
+{
+  "prefix": ".",
+  "channelReact": "620997353523904512",
+  "react": [
+    "👍",
+    "👎"
+  ],
+  "channelReport": "692097716519698514",
+  "serverID": "444871252885372928",
+  "colors": "#008000",
+  "channelLogs": "692097926897598547",
+  "BotOwnersID": [
+    "418415626378280960"
+  ],
+  "categoryID": "608570583080239126",
+  "voiceID": "608570583558651905",
+  "RoleModeratorID": "661628744615854091",
+  "RoleAdminID": "592812769141719067",
+  "RoleMuteName": "Muted",
+  "RoleRestartID": "692099159548887161",
+  "RoleEventBannedID": "692098870246768764",
+  "RoleEventID": [
+    "516239906352267276",
+    "672273376915488818"
+  ],
+  "WelcomeChannelID": "618488811558535189"
+}
